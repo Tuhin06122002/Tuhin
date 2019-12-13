@@ -1,0 +1,24 @@
+->A real world map game
+->To be controlled and managed by government
+->Aimed at the idea of people helping each other
+->Helping others will enable one to gain points
+->At the end of each week or month people may be awarded 
+  by the govt.
+->This will ensure (or at least try to) the safety 
+  of women, chidren and senior citizens
+->Added advantage of reducing the craze around 
+  PUBG and other such MMORG games
+->Features must include Light Weight Voice Recognition 
+  Software to recognize specific common words like "Help"
+->This is probably possible with basic Machine Learning 
+  techniques.
+->In case net balance is nil, it should be able to call 
+  for help nearby with the help of Bluetooth and Hot-Spot 
+  facilities
+
+THE PART WHERE PHYSICS COMES IN:
+->The last point-->ability to create a large radius bluetooth 
+  connection. This should be light weight and should only feature 
+  basic requirements,i.e.,file transfer,etc not required
+  We just need to make the connection with nearby devices and 
+  be able to use their network services in turn.
